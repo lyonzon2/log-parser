@@ -40,7 +40,7 @@ No external Python packages are required.
 
 Clone the repository:
 
-    git clone https://github.com/YOUR_USERNAME/log-parser.git
+    git clone https://github.com/lyonzon2/log-parser.git
 
 Enter the directory:
 
