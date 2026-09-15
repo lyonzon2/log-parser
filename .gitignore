@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.idea/
+.vscode/
+
+.DS_Store
+
+# Generated output
+*_filtered.txt
+all_*_filtered.txt
+
+# Local data
+data/
+logs/
